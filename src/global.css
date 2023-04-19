@@ -15,3 +15,7 @@
     --corPrincipal:#3498db;
     --corSecundaria: #111;
 }
+
+.input{
+    border-top: 18px;
+}
